@@ -1,0 +1,26 @@
+.bgimage{
+    background-image: url("https://thetopgeek.com/assets/images/sign-bg2.png");
+    background-position: center;
+    height: 100vh;
+
+}
+.outerdiv{
+    margin-top: 5rem;
+   border: .5rem solid lavenderblush;
+    background: white;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    border-radius: .5rem;
+}
+.leftside{
+    background:#333333;
+    color:white;
+    height: 25rem;
+}
+.headingside{
+    padding: 1.5rem;
+    padding-top: 6rem;
+}
+.rightside{
+    padding: 1.5rem;
+    padding-top: 6rem;
+}
